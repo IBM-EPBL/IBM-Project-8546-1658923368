@@ -5,4 +5,4 @@ A Novel Method for Handwritten Digit Recognition System
 <li>Lokitha K </li>
 <li>Jeevitha D</li>
 <li>Kaviya A</li>
-<li>Sukirdhapriya T</li>
+<li>Sukirdha Priya T</li>
